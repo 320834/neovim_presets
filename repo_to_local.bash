@@ -1,0 +1,1 @@
+cp -rfp ./nvim ~/.config/

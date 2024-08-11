@@ -12,3 +12,4 @@ Tutorial: https://programmingpercy.tech/blog/learn-how-to-use-neovim-as-ide/
 `:PackerStatus` 
 `:PackerInstall`
 
+Nerd Fonts: https://www.nerdfonts.com/
